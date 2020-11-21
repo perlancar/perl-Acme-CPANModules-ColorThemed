@@ -1,4 +1,4 @@
-package Acme::CPANModules::ColorThemedModules;
+package Acme::CPANModules::ColorThemed;
 
 # AUTHORITY
 # DATE
